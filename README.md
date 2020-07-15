@@ -3,29 +3,29 @@ Course Content
 
 #### [Introduction](#topic1)
 
-   - [ ] **Analysis of Algorithm**
+   - [x] **Analysis of Algorithm**
 
-      - [ ] Background analysis through a Program and its functions.
+      - [x] Background analysis through a Program and its functions.
 
-  - [ ] **Order of Growth**
+  - [x] **Order of Growth**
 
-      - [ ] A mathematical explanation of the growth analysis through limits and functions.
+      - [x] A mathematical explanation of the growth analysis through limits and functions.
 
-      - [ ] A direct way of calculating the order of growth
+      - [x] A direct way of calculating the order of growth
 
-  - [ ] **Asymptotic Notations**
+  - [x] **Asymptotic Notations**
 
-      - [ ] Best, Average and Worst case explanation through a program.
+      - [x] Best, Average and Worst case explanation through a program.
 
-  - [ ] **Big O Notation**
+  - [x] **Big O Notation**
 
-      - [ ] Graphical and mathematical explanation.
+      - [x] Graphical and mathematical explanation.
 
-      - [ ] Calculation
+      - [x] Calculation
 
-      - [ ] Applications at Linear Search
+      - [x] Applications at Linear Search
 
-  - [ ] **Omega Notation**
+  - [x] **Omega Notation**
 
       - [ ] Graphical and mathematical explanation.
 
