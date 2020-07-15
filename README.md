@@ -27,19 +27,19 @@ Course Content
 
   - [x] **Omega Notation**
 
-      - [ ] Graphical and mathematical explanation.
+      - [x] Graphical and mathematical explanation.
 
-      - [ ] Calculation.
+      - [x] Calculation.
 
-  - [ ] **Theta Notation**
+  - [x] **Theta Notation**
 
-      - [ ] Graphical and mathematical explanation.
+      - [x] Graphical and mathematical explanation.
 
-      - [ ] Calculation.
+      - [x] Calculation.
 
-  - [ ] **Analysis of common loops**
+  - [x] **Analysis of common loops**
 
-      - [ ] Single, multiple and nested loops
+      - [x] Single, multiple and nested loops
 
   - [ ] **Analysis of Recursion**
 
