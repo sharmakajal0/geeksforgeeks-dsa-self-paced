@@ -41,15 +41,15 @@ Course Content
 
       - [x] Single, multiple and nested loops
 
-  - [ ] **Analysis of Recursion**
+  - [x] **Analysis of Recursion**
 
-      - [ ] Various calculations through Recursion Tree method
+      - [x] Various calculations through Recursion Tree method
 
-  - [ ] **Space Complexity**
+  - [x] **Space Complexity**
 
-      - [ ] Basic Programs
+      - [x] Basic Programs
 
-      - [ ] Auxiliary Space
+      - [x] Auxiliary Space
 
       - [ ] Space Analysis of Recursion
 
