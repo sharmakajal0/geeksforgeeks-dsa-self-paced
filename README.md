@@ -51,9 +51,9 @@ Course Content
 
       - [x] Auxiliary Space
 
-      - [ ] Space Analysis of Recursion
+      - [x] Space Analysis of Recursion
 
-      - [ ] Space Analysis of Fibonacci number
+      - [x] Space Analysis of Fibonacci number
 
   - [ ] **Practice Problems**
 
