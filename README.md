@@ -55,13 +55,13 @@ Course Content
 
       - [x] Space Analysis of Fibonacci number
 
-  - [ ] **Practice Problems**
+  - [x] **Practice Problems**
 
-      - [ ] This track contains many practice problems for the users which are considered important and must-do as far as Data Structure and Algorithm is concerned.
+      - [x] This track contains many practice problems for the users which are considered important and must-do as far as Data Structure and Algorithm is concerned.
 
 #### [Mathematics](#topic2)
 
-  - [ ] **Finding the number of digits in a number.**
+  - [x] **Finding the number of digits in a number.**
 
   - [ ] **Arithmetic and Geometric Progressions.**
 
