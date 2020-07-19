@@ -63,7 +63,7 @@ Course Content
 
   - [x] **Finding the number of digits in a number.**
 
-  - [ ] **Arithmetic and Geometric Progressions.**
+  - [x] **Arithmetic and Geometric Progressions.**
 
   - [ ] **Quadratic Equations.**
 
