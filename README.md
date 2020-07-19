@@ -65,7 +65,7 @@ Course Content
 
   - [x] **Arithmetic and Geometric Progressions.**
 
-  - [ ] **Quadratic Equations.**
+  - [x] **Quadratic Equations.**
 
   - [ ] **Mean and Median.**
 
