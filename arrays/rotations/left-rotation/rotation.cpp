@@ -26,7 +26,7 @@ void printArray(int arr[], int n){
 }
 
 int main(){
-    int arr[10];
+    int arr[1000];
     int values[2];
 
     int n, d;
